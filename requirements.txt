@@ -1,0 +1,5 @@
+requests>=2.31
+dnspython>=2.5
+beautifulsoup4>=4.12
+python-whois>=0.9.4
+rich>=13.7
